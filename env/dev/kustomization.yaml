@@ -5,7 +5,7 @@ resources:
 - ../../base
 
 images:
-- name: ghcr.io/<username>/demo-app
+- name: ghcr.io/indurti/demo-app
   newTag: latest
 - name: ghcr.io/indurti/demo-app
   newTag: 5c8acd0195c941300ad19beda8c8eaf087127fa3
