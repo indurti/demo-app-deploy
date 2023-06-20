@@ -25,7 +25,7 @@ spec:
         app: demo-app
     spec:
       containers:
-      - image: ghcr.io/indurti/demo-app:68e474b088ab257c5405e1a722a0b9d8fa8a0ea5
+      - image: ghcr.io/indurti/demo-app:3190d0d6f30e7c47c3e189ce2a6144a2c0ceb175
         name: demo-app
         ports:
         - containerPort: 8080
