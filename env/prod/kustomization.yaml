@@ -3,3 +3,6 @@ kind: Kustomization
 
 resources:
 - ../../base
+images:
+- name: ghcr.io/indurti/demo-app
+  newTag: 68e474b088ab257c5405e1a722a0b9d8fa8a0ea5
